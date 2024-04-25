@@ -125,7 +125,7 @@ export default function PrimarySearchAppBar() {
             <MailIcon />
           </Badge>
         </IconButton>
-        <p>Messages</p>
+        <p className='paragraph'>Messages</p>
       </MenuItem>
       <MenuItem>
         <IconButton
